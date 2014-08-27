@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatGoiko", "BatGoiko\BatGoiko.csproj", "{0CBD7348-E8EB-4AA0-9AA4-8D3D83FEC21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CBD7348-E8EB-4AA0-9AA4-8D3D83FEC21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBD7348-E8EB-4AA0-9AA4-8D3D83FEC21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBD7348-E8EB-4AA0-9AA4-8D3D83FEC21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBD7348-E8EB-4AA0-9AA4-8D3D83FEC21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

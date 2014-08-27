@@ -1,0 +1,24 @@
+Link: http://msdn.microsoft.com/en-us/library/system.console.writeline.aspx
+
+Writes the current line terminator to the standard output stream.
+
+
+WriteLine()  Writes the current line terminator to the standard output stream.  
+   WriteLine(Boolean)  Writes the text representation of the specified Boolean value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(Char)  Writes the specified Unicode character, followed by the current line terminator, value to the standard output stream.  
+   WriteLine(Char[])  Writes the specified array of Unicode characters, followed by the current line terminator, to the standard output stream.  
+   WriteLine(Decimal)  Writes the text representation of the specified Decimal value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(Double)  Writes the text representation of the specified double-precision floating-point value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(Int32)  Writes the text representation of the specified 32-bit signed integer value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(Int64)  Writes the text representation of the specified 64-bit signed integer value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(Object)  Writes the text representation of the specified object, followed by the current line terminator, to the standard output stream.  
+   WriteLine(Single)  Writes the text representation of the specified single-precision floating-point value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(String)  Writes the specified string value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(UInt32)  Writes the text representation of the specified 32-bit unsigned integer value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(UInt64)  Writes the text representation of the specified 64-bit unsigned integer value, followed by the current line terminator, to the standard output stream.  
+   WriteLine(String, Object)  Writes the text representation of the specified object, followed by the current line terminator, to the standard output stream using the specified format information.  
+   WriteLine(String, Object[])  Writes the text representation of the specified array of objects, followed by the current line terminator, to the standard output stream using the specified format information.  
+   WriteLine(Char[], Int32, Int32)  Writes the specified subarray of Unicode characters, followed by the current line terminator, to the standard output stream.  
+   WriteLine(String, Object, Object)  Writes the text representation of the specified objects, followed by the current line terminator, to the standard output stream using the specified format information.  
+   WriteLine(String, Object, Object, Object)  Writes the text representation of the specified objects, followed by the current line terminator, to the standard output stream using the specified format information.  
+   WriteLine(String, Object, Object, Object, Object)  Writes the text representation of the specified objects and variable-length parameter list, followed by the current line terminator, to the standard output stream using the specified format information.  

@@ -1,0 +1,51 @@
+Write a program that reads a text file and inserts line numbers in front of each of its lines. 
+The result should be written to another text file.
+Write a program that compares two text files line by line and prints the number of lines that are the same and the number of lines that are different. 
+Assume the files have equal number of lines.
+Write a program that reads a text file and prints on the console its odd lines.
+Write a program that concatenates two text files into another text file.
+Write a program that reads a text file and inserts line numbers in front of each of its lines. 
+The result should be written to another text file.
+Write a program that compares two text files line by line and prints the number of lines that are the same and the number of lines that are different. 
+Assume the files have equal number of lines.
+Write a program that reads a text file and prints on the console its odd lines.
+Write a program that concatenates two text files into another text file.
+Write a program that reads a text file and inserts line numbers in front of each of its lines. 
+The result should be written to another text file.
+Write a program that compares two text files line by line and prints the number of lines that are the same and the number of lines that are different.
+Assume the files have equal number of lines.
+Write a program that reads a text file and prints on the console its odd lines.
+Write a program that concatenates two text files into another text file.
+Write a program that reads a text file and prints on the console its odd lines.
+Write a program that concatenates two text files into another text file.
+Write a program that reads a text file and inserts line numbers in front of each of its lines. 
+The result should be written to another text file.
+Write a program that compares two text files line by line and prints the number of lines that are the same and the number of lines that are different. 
+Assume the files have equal number of lines.
+Write a program that reads a text file and prints on the console its odd lines.
+Write a program that concatenates two text files into another text file.
+Write a program that reads a text file and inserts line numbers in front of each of its lines.
+The result should be written to another text file.
+Write a program that compares two text files line by line and prints the number of lines that are the same and the number of lines that are different.
+Assume the files have equal number of lines.
+Write a program that reads a text file and prints on the console its odd lines.
+Write a program that concatenates two text files into another text file.
+Write a program that reads a text file and inserts line numbers in front of each of its lines.
+The result should be written to another text file.
+Write a program that compares two text files line by line and prints the number of lines that are the same and the number of lines that are different.
+Assume the files have equal number of lines.
+Write a program that deletes from given text file all odd lines. 
+The result should be in the same file.
+Write a program that extracts from given XML file all the text without the tags. 
+Example:
+Write a program that deletes from a text file all words that start with the prefix "test". 
+Words contain only the symbols 0...9, a...z, A…Z, _.
+Write a program that deletes from given text file all odd lines. 
+The result should be in the same file.
+Write a program that extracts from given XML file all the text without the tags. 
+Example:Write a program that deletes from a text file all words that start with the prefix "test". 
+Words contain only the symbols 0...9, a...z, A…Z, _.
+Write a program that deletes from given text file all odd lines. The result should be in the same file.
+Write a program that extracts from given XML file all the text without the tags. 
+Example: Write a program that deletes from a text file all words that start with the prefix "test". 
+Words contain only the symbols 0...9, a...z, A…Z, _.
