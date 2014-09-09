@@ -1,0 +1,10 @@
+Link: http://msdn.microsoft.com/en-us/library/System.Console(v=vs.110).aspx
+
+The console is an operating system window where users interact with the operating system or
+ with a text-based console application by entering text input through the computer keyboard,
+ and by reading text output from the computer terminal. For example, in the Windows 
+operating system, the console is called the Command Prompt window and accepts MS-DOS 
+commands. The Console class provides basic support for applications that read characters 
+from, and write characters to, the console. 
+For information about developing with the Console class, see the following sections:
+

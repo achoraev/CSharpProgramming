@@ -1,0 +1,59 @@
+﻿Design pattern: Simple Factory
+	trying to do it but have no time
+
+Design pattern: Strategy
+	* 
+
+Design pattern: Template Method
+	* 
+
+Design pattern: Abstract factory
+	* 
+
+Design pattern: Composite
+	* 
+
+Design pattern: Mediator
+	* 
+
+Found bottlenecks:
+	* 
+	* 
+
+Found bugs:
+	1.  on 29 row in class Computer
+	VideoCard.Draw(string.Format("Battery status: {0}%", battery.Percentage));
+	add % at the end
+	
+	2. on 24 row in class Computer
+	remove[Obsolete("")]
+	
+	3. refactoring SquareNumber and duplicate code in SquareNumber64 and SquareNumber32 and program works.
+		
+
+Single responsibility principle
+	trying to make all classes single responsibility. Sorry if i can't to all  classes.
+
+Open/closed principle
+	* 
+
+Liskov substitution principle
+	* 
+
+Interface segregation principle
+	used in interface IMotherboard
+
+Dependency inversion principle
+	* 
+	
+Refactoring 
+	•	Fix compile errors and warnings 
+	•	Fix namespace names
+	•	Remove code duplication - SquareNumber32 and SquareNumber64 are same with dif 500 and 1000
+	•	Better naming of classes, variables, fields, properties and parameters
+	•	Extract core classes and interfaces in a different assembly
+	•	Introduce constants
+	•	Remove useless constant
+	•	Divergent change
+	•	Middle man - was the SquareNumber
+
